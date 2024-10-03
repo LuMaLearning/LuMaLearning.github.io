@@ -21,7 +21,7 @@ title: "Luxman Maheswaran"
 description: "Personal Site"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://LuMaLearning.github.io"
-logo: "/images/headshot.jpg"
+logo: "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
@@ -92,7 +92,7 @@ defaults:
 # Site Author
 author: 
   name: Luxman Maheswaran 
-  picture: "/images/headshot.jpg"
+  picture: "/images/logo.png"
   email: luxman.mahes@gmail.com
   twitter:
   links: 
