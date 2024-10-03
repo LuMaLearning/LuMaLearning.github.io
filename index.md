@@ -12,7 +12,6 @@ title:
 I am an aspiring data scientist/statistician and Master's student in the Department of  Statistical Science at Duke University. 
 
 - My academic journey has been marked by a deep research commitment to statistical analysis, machine learning, and data science, with special focuses on natural language processing, Bayesian statistics, and creative data visualizations. Take a look of my previous [research](/research) and [intern projects](/projects) in R and Python, and let me know if you are interested! 
-- Beyond academia, I actively contribute as a Project Manager & Data Analyst @ [Duke Impact Investing Group](https://www.linkedin.com/company/diig/) and as the Chief Technology Officer @ [Duke Statistical Science Majors Union](https://dukegroups.com/ssmu/home/). Additionally, I have been a [teaching assistant](/teaching) with 3+ years of experience. Feel free to reach out for project advice and business case studies. 
 - In my free time, I like cycling, playing guitar, and exercising.
 
 <div style="text-align: right"> 
@@ -59,9 +58,9 @@ I am an aspiring data scientist/statistician and Master's student in the Departm
   <summary> 
     <b>Research Assistant @  <a href="https://www.aei.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/American_Enterprise_Institute_logo.svg/1920px-American_Enterprise_Institute_logo.svg.png" width="40" height="20"/></a></b> <span style="float:right;"> <i>(June 2021 – Dec 2021)</i> </span>
   </summary>
-  <i>Lab Test Harmonization: Bio-BERT Based Deduplication of Test Labels</i>
+  <i>Industrial Lobbying Index</i>
   <ul>
-    <li>Selected as the sole undergraduate amidst a competitive pool of professional candidates for Duke AI Health 2022 cohort, and earned the prestigious opportunity to present research findings at <a href="https://aihealth.duke.edu/poster-showcase-2022/">Duke AI Health Poster Showcase 2022</a></li>
+    <li>Created an index of contribution to lobbying by industry</li>
     <li>Optimized lab test deduplication of grouper labels by adopting and fine-tuning Bio-BERT NLP structure pre-trained on biomedical corpora; created a new method of cross-comparison similarity evaluation based on ground-truth text embeddings, and uncovered 95% performance boost in the application to Duke lab <i>analyte</i> database</li>
   </ul>
 </details>  
@@ -71,10 +70,11 @@ I am an aspiring data scientist/statistician and Master's student in the Departm
   <summary> 
     <b>Research Assistant @ <a href="https://complexfluids.umd.edu/">Complex Fluids Lab</a></b> <span style="float:right;"> <i>(Jun 2018 – May 2020)</i> </span>
   </summary>
-  <i>Hiya Shield Project: Robocall Identification & Screening</i>
+  <i>Complex Fluids and Nanomaterials Lab</i>
   <ul>
-    <li>Spearheaded a robocall screening process using NLP text embeddings to determine if an audio sample (or its transcript) is from a known robocall database</li>
-    <li>Quantified the relationship between audio duration and performance of robocall classification; identified the preferred audio truncation length and optimal similarity threshold, and achieved a 67% acceleration in user experience with the introduction of a customizable screening accuracy feature for Hiya mobile App</li>
+    <li>Constructed multi-layer polymer capsules with inside-out technique</li>
+    <li>Researched 3D printing of hydrogels</li>
+    <li>Researched soft polymer batteries made from additive manufacturing</li>
   </ul>
 </details>  
 
