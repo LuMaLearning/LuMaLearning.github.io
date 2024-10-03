@@ -17,11 +17,11 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 # remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: en-US
-title: "Luxman's Site"
-description: "Luxman Maheswaran's personal site."
+title: "Luxman Maheswaran"
+description: "Personal Site"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://LuMaLearning.github.io"
-logo: # path of site logo, e.g. "/images/logo.png"
+logo: /images/headshot.jpg"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
