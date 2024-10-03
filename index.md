@@ -42,21 +42,22 @@ I am an aspiring data scientist/statistician and Master's student in the Departm
 
 ## 👩‍💻  Highlights & Updates
 
+<!--
 **Invitee \|** [**R Dev Day @ Hutch**](https://contributor.r-project.org/events/) **@** <a href="https://www.r-project.org/foundation/"><img src="https://www.r-project.org/logo/Rlogo.svg" width="30" height="30"/></a>   <span style="float:right;"> <i>(Aug 2024)</i> </span>
 
 **Opportunity Scholar \|** [**posit::conf(2024)**](https://posit.co/conference/) **@** <a href="https://posit.co/"><img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-flat.svg" width="60" height="60"/></a>   <span style="float:right;"> <i>(Aug 2024)</i> </span>
-
+-->
 
 <details>
   <summary>
-  <b>Technical Solutions Engineer - Analytics @ </b> <a href="https://www.epic.com/"><img src="https://en.wikipedia.org/wiki/File:Epic_Systems.svg.png" width="45" height="45"/></a>  <span style="float:right;"> <i>(June 2022 – June 2024)</i> </span>
+  <b>Technical Solutions Engineer - Analytics @ </b> <a href="https://www.epic.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Epic_Systems.svg/1600px-Epic_Systems.svg.png" width="45" height="45"/></a>  <span style="float:right;"> <i>(June 2022 – June 2024)</i> </span>
   </summary>
   <i>Computational Stats - Diabetes Safety TFLs Automation</i>
 </details>
 
 <details>
   <summary> 
-    <b>Student Research Affiliate @ <a href="https://aihealth.duke.edu/">Duke AI Health</a></b> <span style="float:right;"> <i>(May 2022 – Dec 2022)</i> </span>
+    <b>Research Assistant @ <a href="https://www.aei.org/">American Enterprise Institute</a></b> <span style="float:right;"> <i>(June 2021 – Dec 2021)</i> </span>
   </summary>
   <i>Lab Test Harmonization: Bio-BERT Based Deduplication of Test Labels</i>
   <ul>
