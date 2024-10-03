@@ -13,7 +13,7 @@ I am an aspiring data scientist/statistician and Master's student in the Departm
 
 - My academic journey has been marked by a deep research commitment to statistical analysis, machine learning, and data science, with special focuses on natural language processing, Bayesian statistics, and creative data visualizations. Take a look of my previous [research](/research) and [intern projects](/projects) in R and Python, and let me know if you are interested! 
 - Beyond academia, I actively contribute as a Project Manager & Data Analyst @ [Duke Impact Investing Group](https://www.linkedin.com/company/diig/) and as the Chief Technology Officer @ [Duke Statistical Science Majors Union](https://dukegroups.com/ssmu/home/). Additionally, I have been a [teaching assistant](/teaching) with 3+ years of experience. Feel free to reach out for project advice and business case studies. 
-- In my free time, I do 🥊 / 🚴‍♀️ / 🎹 / 🧁
+- In my free time, I like cycling, playing guitar, and exercising.
 
 <div style="text-align: right"> 
     <a href="/docus/Resume_F24.pdf">➤View Resume</a> 
@@ -49,7 +49,7 @@ I am an aspiring data scientist/statistician and Master's student in the Departm
 
 <details>
   <summary>
-  <b>Masters Statistician Intern @ </b> <a href="https://www.lilly.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Eli_Lilly_and_Company.svg/64px-Eli_Lilly_and_Company.svg.png" width="45" height="45"/></a>  <span style="float:right;"> <i>(May 2024 – Aug 2024)</i> </span>
+  <b>Technical Solutions Engineer - Analytics @ </b> <a href="https://www.epic.com/"><img src="https://en.wikipedia.org/wiki/File:Epic_Systems.svg.png" width="45" height="45"/></a>  <span style="float:right;"> <i>(June 2022 – June 2024)</i> </span>
   </summary>
   <i>Computational Stats - Diabetes Safety TFLs Automation</i>
 </details>
