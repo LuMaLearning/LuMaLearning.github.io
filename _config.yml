@@ -21,7 +21,7 @@ title: "Luxman Maheswaran"
 description: "Personal Site"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://LuMaLearning.github.io"
-logo: /images/headshot.jpg"
+logo: "/images/headshot.jpg"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
@@ -55,7 +55,7 @@ feed:
 # paginate_path: /page:num/
 
 # Search
-search_full_content: false # can have performance implications for large sites
+search_full_content: true # can have performance implications for large sites
 
 # Taxonomy pages
 # category_archive_path: "/categories/#"
@@ -92,16 +92,25 @@ defaults:
 # Site Author
 author: 
   name: Luxman Maheswaran 
-  picture:
+  picture: "/images/headshot.jpg"
   email: luxman.mahes@gmail.com
   twitter:
-  links:
-    - title:
-      url:
-      icon:
+  links: 
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/luxman-m/
+      icon: fab fa-linkedin-in
+    - title: GitHub
+      url: https://github.com/LuMaLearning
+      icon: fab fa-github-square
 
 # Footer Links
 footer_links:
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
+  - title: Email
+    url: mailto:luxman.mahes@gmail.com
+    icon: fa fa-envelope
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/luxman-m/
+    icon: fab fa-linkedin-in
+  - title: GitHub
+    url: https://github.com/LuMaLearning
+    icon: fab fa-github-square
