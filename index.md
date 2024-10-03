@@ -57,7 +57,7 @@ I am an aspiring data scientist/statistician and Master's student in the Departm
 
 <details>
   <summary> 
-    <b>Research Assistant @ <a href="https://www.aei.org/">American Enterprise Institute</a></b> <span style="float:right;"> <i>(June 2021 – Dec 2021)</i> </span>
+    <b>Research Assistant @ <a href="https://www.aei.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/American_Enterprise_Institute_logo.svg/1920px-American_Enterprise_Institute_logo.svg.png" width="50" height="25"/></a> <span style="float:right;"> <i>(June 2021 – Dec 2021)</i> </span>
   </summary>
   <i>Lab Test Harmonization: Bio-BERT Based Deduplication of Test Labels</i>
   <ul>
@@ -69,7 +69,7 @@ I am an aspiring data scientist/statistician and Master's student in the Departm
 
 <details>
   <summary> 
-    <b>Data Science Intern @ <a href="https://www.hiya.com/">Hiya</a></b> <span style="float:right;"> <i>(Jun 2022 – Aug 2022)</i> </span>
+    <b>Research Assistant @ <a href="https://complexfluids.umd.edu/">Complex Fluids Lab</a></b> <span style="float:right;"> <i>(Jun 2018 – May 2020)</i> </span>
   </summary>
   <i>Hiya Shield Project: Robocall Identification & Screening</i>
   <ul>
@@ -78,17 +78,6 @@ I am an aspiring data scientist/statistician and Master's student in the Departm
   </ul>
 </details>  
 
-
-<details>
-  <summary>
-    <b>Lead Author & Research Assistant @ <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a></b> <span style="float:right;"> <i>(Jun 2020 – Mar 2021)</i> </span>
-  </summary>
-  <i>Cross-Media Retrieval Based on Big Data Technology</i>
-  <ul>
-    <li>Improved performance of permutation invariant training with mean squared error loss through BLSTM/LSTM and CNN in a key media separation technique; proved the improvement in two separation methods – the FIX strategy and the masking-based data augmentation strategy – and subsequently developed independent research project</li>
-    <li>Paper Publication: <i><a href="https://ieeexplore.ieee.org/document/9332362">Audio-Visual Single-Channel Signal Separation based on Big Data Augmentation</a></i> published by IEEE during International Conference on Computer Networks and Electronic Communications (ICCNEC 2020)</li>
-  </ul>
-</details>
 
 
 
