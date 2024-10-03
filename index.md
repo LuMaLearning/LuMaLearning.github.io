@@ -21,11 +21,6 @@ I am an aspiring data scientist/statistician and Master's student in the Departm
 
 
 ## 🎓 Education
-|  *Institution*    | *Degree*     | *Field of Study* | *Dates* |
-| ----------------- | ------------ | ---------------- | ------- |
-| **Duke University** | M.S. Student | Statistics  | May 2025  |
-| **Duke University** | B.S. | Statistical Science (Data Science Concentration) Minor in Computer Science | May 2023  |
-| **University of California, Santa Barbara** | (Transfer Out) | Statistics and Data Science | June 2021 |
 
 |  *Institution*    | *Degree*     | *Field of Study* | *Dates* |
 | ----------------- | ------------ | ---------------- | ------- |
