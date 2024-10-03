@@ -7,31 +7,30 @@ title:
 
 ------------------------------------------------------------------------------
 
-# 👋 Hello there!
+# Introduction
 
-I am an aspiring data scientist and Master's student in the Department of  Statistical Science at Duke University, where I also obtained my Bachelor's in Statistical Science (Data Science Concentration) and a Minor in Computer Science. 
+I am an aspiring data scientist/statistician and Master's student in the Department of  Statistical Science at Duke University. 
 
 - My academic journey has been marked by a deep research commitment to statistical analysis, machine learning, and data science, with special focuses on natural language processing, Bayesian statistics, and creative data visualizations. Take a look of my previous [research](/research) and [intern projects](/projects) in R and Python, and let me know if you are interested! 
 - Beyond academia, I actively contribute as a Project Manager & Data Analyst @ [Duke Impact Investing Group](https://www.linkedin.com/company/diig/) and as the Chief Technology Officer @ [Duke Statistical Science Majors Union](https://dukegroups.com/ssmu/home/). Additionally, I have been a [teaching assistant](/teaching) with 3+ years of experience. Feel free to reach out for project advice and business case studies. 
 - In my free time, I do 🥊 / 🚴‍♀️ / 🎹 / 🧁
 
 <div style="text-align: right"> 
-    <a href="/docus/Yifan%20(Holly)%20Cui%20Resume.pdf">👉View My Resume</a> 
+    <a href="/docus/Yifan%20(Holly)%20Cui%20Resume.pdf">➤View Resume</a> 
 </div>
 
 
-## 🏫 Education
+## 🎓 Education
 
 |  *Institution*    | *Degree*     | *Field of Study* | *Dates* |
 | ----------------- | ------------ | ---------------- | ------- |
-| **Duke University** | M.S. Student | Statistics  | May 2025  |
-| **Duke University** | B.S. | Statistical Science (Data Science Concentration) Minor in Computer Science | May 2023  |
-| **University of California, Santa Barbara** | (Transfer Out) | Statistics and Data Science | June 2021 |
-
+| **Duke University** | M.S. | Statistics  | May 2026  |
+| **University of Maryland** | Dual B.S. | Chemical Engineering | May 2022  |
+| **University of Maryland** | Dual B.S. | Economics | May 2022  |
   <br>
 
 
-## ⚙️ Skillset
+## 💡 Skillset
 
 ![Skillset](/images/skills.png)
 <div style="text-align: right"> <i>© Visualization is created by scraping through my resume using R wordcloud2 package.</i> </div>
