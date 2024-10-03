@@ -16,7 +16,7 @@ I am an aspiring data scientist/statistician and Master's student in the Departm
 - In my free time, I do 🥊 / 🚴‍♀️ / 🎹 / 🧁
 
 <div style="text-align: right"> 
-    <a href="/docus/Yifan%20(Holly)%20Cui%20Resume.pdf">➤View Resume</a> 
+    <a href="/docus/Resume_F24.pdf">➤View Resume</a> 
 </div>
 
 
