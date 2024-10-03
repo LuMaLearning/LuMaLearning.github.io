@@ -50,7 +50,7 @@ I am an aspiring data scientist/statistician and Master's student in the Departm
 
 <details>
   <summary>
-  <b>Technical Solutions Engineer - Analytics @ </b> <a href="https://www.epic.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Epic_Systems.svg/1600px-Epic_Systems.svg.png" width="75" height="30"/></a>  <span style="float:right;"> <i>(June 2022 – June 2024)</i> </span>
+  <b>Technical Solutions Engineer - Analytics @ </b> <a href="https://www.epic.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Epic_Systems.svg/1600px-Epic_Systems.svg.png" width="50" height="20"/></a>  <span style="float:right;"> <i>(June 2022 – June 2024)</i> </span>
   </summary>
   <i>Computational Stats - Diabetes Safety TFLs Automation</i>
 </details>
