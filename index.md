@@ -57,7 +57,7 @@ I am an aspiring data scientist/statistician and Master's student in the Departm
 
 <details>
   <summary> 
-    <b>Research Assistant @ <a href="https://www.aei.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/American_Enterprise_Institute_logo.svg/1920px-American_Enterprise_Institute_logo.svg.png" width="50" height="25"/></a> <span style="float:right;"> <i>(June 2021 – Dec 2021)</i> </span>
+    <b>Research Assistant @ </b> <a href="https://www.aei.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/American_Enterprise_Institute_logo.svg/1920px-American_Enterprise_Institute_logo.svg.png" width="40" height="20"/></a> <span style="float:right;"> <i>(June 2021 – Dec 2021)</i> </span>
   </summary>
   <i>Lab Test Harmonization: Bio-BERT Based Deduplication of Test Labels</i>
   <ul>
