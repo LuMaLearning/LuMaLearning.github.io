@@ -11,7 +11,7 @@ title:
 
 I am an aspiring data scientist/statistician and Master's student in the Department of  Statistical Science at Duke University. 
 
-- My academic journey has been marked by a deep research commitment to statistical analysis, machine learning, and data science, with special focuses on natural language processing, Bayesian statistics, and creative data visualizations. Take a look of my previous [research](/research) and [intern projects](/projects) in R and Python, and let me know if you are interested! 
+- My diverse academic journey has taken me through engineering, economics, and statistics with data being the common thread between them. My latest work has focused on a commitment to statistical analysis, data science, and creative data visualizations. Please take a look of my previous [research](/research) and [intern projects](/projects) in R and Python.
 - In my free time, I like cycling, playing guitar, and exercising.
 
 <div style="text-align: right"> 
