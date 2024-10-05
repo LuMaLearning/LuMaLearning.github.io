@@ -1,21 +1,20 @@
 ---
-title: "Exploring Color Blindness: A Shiny App Based Color Blindness Test & Filter"
+title: "Exploring Movie Revenue | Tidy Tuesday"
 tags:
   - Data Visualization
   - Data Wrangling
-  - Statistical Computing
 ---
 
-This project was created by Holly Cui, Parker Dingman, Sophie Dalldorf, and Kate Neal under the instruction of Professor Mine Cetinkaya-Rundel for the Fall 2021 section of [STA 313: Advanced Data Visualization](https://vizdata.org/) at Duke University.
+This project was created by Luxman Maheswaran for the Fall 2024 section of STA 523 at Duke University.
 
 <embed src="https://tinyurl.com/colorblindapp" style="width:800px; height: 500px;">
 
-Or refer to the link at [https://tinyurl.com/colorblindapp](https://tinyurl.com/colorblindapp).
 Source code can be found on our [**GitHub repository**](https://github.com/vizdata-f21/project-2-stats_r_us.git).
 
 ## Introduction
 
-Our project embarked on the goal of increasing awareness and understanding of colorblindness through a creatively designed **R-Shiny** based web application. This initiative is not just a technological endeavor but also a bridge to greater empathy and insight into the world as seen by individuals with color vision deficiencies.
+Tidy Tuesday is a weekly data project that provides real-world data sets for visualization.
+The source data for this project comes from [10-23-2018](https://github.com/rfordatascience/tidytuesday/tree/master/data/2018/2018-10-23) on movie revenue.
 
 Color blindness affects approximately 1 in 12 men and 1 in 200 women globally, summing up to around 300 million people. While often genetic, conditions such as diabetes, multiple sclerosis, or aging can also contribute to its occurrence. Our project zeroes in on the four most prevalent types of colorblindness: *Protanopia* (red-green), *Deuteranopia* (green deficiency), *Tritanopia* (blue-yellow), and *Monochromatism* (absence of color perception). It's important to acknowledge that our understanding of colorblindness is largely based on research conducted in Western populations, and variations may exist globally.
 
