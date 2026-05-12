@@ -11,15 +11,15 @@ title:
 
 I am an aspiring data scientist/statistician and Master's student in the Department of  Statistical Science at Duke University. 
 
-- My diverse academic journey has taken me through engineering, economics, and statistics with data being the common thread between them. My latest work has focused on a commitment to statistical analysis, data science, and creative data visualizations. Please take a look of my previous [research](/research) and [intern projects](/projects) in R and Python.
-- In my free time, I like cycling, playing guitar, and exercising.
+- My diverse academic journey has taken me through engineering, economics, and statistics with data being the common thread between them. My latest work has focused on a commitment to statistical analysis, data science, and creative data visualizations. Please take a look of my previous [intern projects](/projects) in R and Python.
+- In my free time, I like pickleball, playing guitar, and exercising.
 
 <div style="text-align: right"> 
-    <a href="/docus/Resume_F24.pdf">➤View Resume</a> 
+    <a href="/docus/Resume_F26.pdf">➤View Resume</a> 
 </div>
 
 
-## 🎓 Education
+##  Education
 
 |  *Institution*    | *Degree*     | *Field of Study* | *Dates* |
 | ----------------- | ------------ | ---------------- | ------- |
@@ -31,15 +31,8 @@ I am an aspiring data scientist/statistician and Master's student in the Departm
   <br>
 
 
-## 💡 Skillset
 
-![Skillset](/images/skills.png)
-<div style="text-align: right"> <i>© Visualization is created by scraping through my resume using R wordcloud2 package.</i> </div>
-
-  <br>
-
-
-## 👩‍💻  Highlights & Updates
+##  Highlights & Updates
 
 <!--
 **Invitee \|** [**R Dev Day @ Hutch**](https://contributor.r-project.org/events/) **@** <a href="https://www.r-project.org/foundation/"><img src="https://www.r-project.org/logo/Rlogo.svg" width="30" height="30"/></a>   <span style="float:right;"> <i>(Aug 2024)</i> </span>
